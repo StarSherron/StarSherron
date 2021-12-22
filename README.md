@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @StarSherron
 - 📫 How to reach me ... vk.com/kdm_developer
-![](https://komarev.com/ghpvc/?username=StarSherron&color=BlueViolet)
+![](https://komarev.com/ghpvc/?username=StarSherron&color=blueviolet)
 
 <!---
 StarSherron/StarSherron is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
