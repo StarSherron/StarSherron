@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @StarSherron
-- 📫 How to reach me ... vk.com/kdm_developer
+- 📫 How to reach me ... vk.com/kdm_developer \n
 ![](https://komarev.com/ghpvc/?username=StarSherron&color=blueviolet)
 
 <!---
